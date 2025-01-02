@@ -27,6 +27,4 @@
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=robertfisher002&theme=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfisher002&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertfisher002&show_icons=true&theme=radical)
-
 
