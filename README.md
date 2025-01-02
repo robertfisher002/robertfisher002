@@ -5,7 +5,7 @@
 
 	- 🎓 I earned my PhD in [Genetics & Genomics](https://www.bumc.bu.edu/gpgg/) from [Boston University Chobanian & Avedesian School of Medicine](https://www.bumc.bu.edu/camed/) where I discovered the role of the CoREST epigenetic complex in RNA splicing and developed a method to resensitize immunotherapy-resistant tumors to immune checkpoint blockade.
 
-	- 🧬 I was a Computational Genomics Intern at [ReviR Therapeutics](https://revirtx.com/home), an early stage RNA therapeutics company, where I spearheaded a computational pipeline to automate RNA splicing small molecule characterization and integrated it into an in-house data user interface for wet lab biology use. I also created a machine learning model trained on large-scale informatic datasets to predict nonsense-mediated decay induced by RNA splicing small molecules.
+	- 🧬 I was a Computational Genomics Intern at [ReviR Therapeutics](https://revirtx.com/home), an early stage RNA therapeutics company, where I spearheaded a computational pipeline to automate RNA splicing small molecule characterization. I also created a machine learning model trained on large-scale informatic datasets to predict nonsense-mediated decay induced by RNA splicing small molecules.
 
 - ### 📚Publications:
 	- [CoREST Complex Inhibition Alters RNA Splicing to Promote Neoantigen Expression and Enhance Tumor Immunity](https://www.biorxiv.org/content/10.1101/2024.12.12.627852v1)
