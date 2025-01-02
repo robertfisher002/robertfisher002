@@ -7,6 +7,8 @@
 
 	- 🧬 I was a Computational Genomics Intern at [ReviR Therapeutics](https://revirtx.com/home), an early stage RNA therapeutics company, where I spearheaded a computational pipeline to automate RNA splicing small molecule characterization. I also created a machine learning model trained on large-scale informatic datasets to predict nonsense-mediated decay induced by RNA splicing small molecules.
 
+   	- 🔍 Interests: Epigenetics, RNA splicing, Immuno-oncology, Target discovery 
+
 - ### 📚Publications:
 	- [CoREST Complex Inhibition Alters RNA Splicing to Promote Neoantigen Expression and Enhance Tumor Immunity](https://www.biorxiv.org/content/10.1101/2024.12.12.627852v1)
 	- [The CoREST Repressor Complex Mediates Phenotype Switching and Therapy Resistance in Melanoma](https://www.jci.org/articles/view/171063)
