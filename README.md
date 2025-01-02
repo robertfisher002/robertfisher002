@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--
-**robertfisher002/robertfisher002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 I am a molecular biologist turned computational genomic scientist with 5+ years of experience analyzing next-generation sequencing data with expertise in melanoma, neurodegenerative disease, epigenetics, and RNA biology. 
 
 🎓 I earned my PhD in Genetics & Genomics from Boston University School of Medicine where I discovered the role of the CoREST epigenetic complex in RNA splicing and developed a method to resensitize immunotherapy-resistant tumors to immune checkpoint blockade.
