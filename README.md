@@ -3,7 +3,7 @@
 - ### 🌱Background:
 	- 👋 I am a molecular biologist turned computational genomic scientist with 5+ years of experience analyzing next-generation sequencing data with expertise in melanoma, neurodegenerative disease, epigenetics, and RNA biology. 
 
-	- 🎓 I earned my PhD in [Genetics & Genomics](https://www.bumc.bu.edu/gpgg/) from [Boston University Chobanian & Avedesian School of Medicine](https://www.bumc.bu.edu/camed/) where I discovered the role of the CoREST epigenetic complex in RNA splicing and developed a method to resensitize immunotherapy-resistant tumors to immune checkpoint blockade.
+	- 🎓 I earned my [PhD in Genetics & Genomics](https://www.bumc.bu.edu/gpgg/) from [Boston University Chobanian & Avedesian School of Medicine](https://www.bumc.bu.edu/camed/) where I discovered the role of the CoREST epigenetic complex in RNA splicing and developed a method to resensitize immunotherapy-resistant tumors to immune checkpoint blockade. I completed my [B.S. in Biology](https://bio.unc.edu/) from [University of North Carolina](https://www.unc.edu/) where I studied 3D chromatin structure during monocyte differentiation. 
 
 	- 🧬 I was a Computational Genomics Intern at [ReviR Therapeutics](https://revirtx.com/home), an early stage RNA therapeutics company, where I spearheaded a computational pipeline to automate RNA splicing small molecule characterization. I also created a machine learning model trained on large-scale informatic datasets to predict nonsense-mediated decay induced by RNA splicing small molecules.
 
