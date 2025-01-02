@@ -21,3 +21,4 @@
 - ### 📫How to reach me: 
 	- Email: rjfisher002@gmail.com
 
+![GraphicalAbstract](https://github.com/user-attachments/assets/0d529bd5-5e71-4417-8f98-a742544c03c1)
