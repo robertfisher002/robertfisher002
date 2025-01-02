@@ -24,3 +24,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0d529bd5-5e71-4417-8f98-a742544c03c1" alt="Graphical Abstract" width="700">
 </div>
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=robertfisher002&theme=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfisher002&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertfisher002&show_icons=true&theme=radical)
+
+
