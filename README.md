@@ -22,9 +22,5 @@
 	- Email: rjfisher002@gmail.com
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0d529bd5-5e71-4417-8f98-a742544c03c1" alt="Graphical Abstract" width="700">
+  <img src="https://github.com/user-attachments/assets/0d529bd5-5e71-4417-8f98-a742544c03c1" alt="Graphical Abstract" width="600">
 </div>
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=robertfisher002&theme=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfisher002&layout=compact)
-
