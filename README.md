@@ -13,7 +13,7 @@
 	- [CoREST Complex Inhibition Alters RNA Splicing to Promote Neoantigen Expression and Enhance Tumor Immunity](https://www.biorxiv.org/content/10.1101/2024.12.12.627852v1)
 	- [The CoREST Repressor Complex Mediates Phenotype Switching and Therapy Resistance in Melanoma](https://www.jci.org/articles/view/171063)
 	- [Targeting of the CoREST Repressor Complex in Atypical Teratoid Rhabdoid Tumors Restores Epigenetic Balance and Unlocks Irreversible Differentiation Programs](https://www.biorxiv.org/content/10.1101/2024.12.14.628381v1)
-	- [The CoREST complex is a therapeutic vulnerability in malignant peripheral nerve sheath tumors](https://www.biorxiv.org/content/10.1101/2024.08.17.607802v1)
+	- [The CoREST complex is a Therapeutic Vulnerability in Malignant Peripheral Nerve Sheath Tumors](https://www.biorxiv.org/content/10.1101/2024.08.17.607802v1)
 	- [Epigenetics and Cutaneous Neoplasms: From Mechanism to Therapy](https://pubmed.ncbi.nlm.nih.gov/37020393/)
    
 - ### 📝Links:
